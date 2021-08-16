@@ -13,18 +13,19 @@
 
 <div>
   <a href="https://github.com/Roney-Carvalho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roney-Carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roney-Carvalho&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Roney-Carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roney-Carvalho&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roney-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roney-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gif" height="230" width="180" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif">
+  <img align="right" alt="gif" height="200" width="150" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif">
 </div>
+
   
-  ##
-  
+## Me encontre no:
+
 <div> 
   <a href="https://instagram.com/roney_oak" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
