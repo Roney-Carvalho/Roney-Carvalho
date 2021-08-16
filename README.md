@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Roney-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roney-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gif" src="https://media.giphy.com/media/wmdFxigBfmOU8/giphy.gif">
+  <img align="right" alt="gif" height="230" width="180" src="https://media.giphy.com/media/Lp2DXaHwco9FK/giphy.gif">
 </div>
   
   ##
