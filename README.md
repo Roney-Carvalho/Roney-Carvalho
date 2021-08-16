@@ -1,5 +1,15 @@
 ## 💬 It's a me Roney!
 
+🎯 Me desenvolver como engenheiro de software
+🇧🇷 Brasil
+🏡 Paraná, região de Curitiba
+💼 Instrutor de Inglês
+📚 Aprender e ajudar outros a aprenderem
+🎓 Bacharel em administração
+💻 Futuro engenheiro de software
+🧩 Fun Facts: música, tecnologia, ler, games
+
+<br />
 
 <div>
   <a href="https://github.com/Roney-Carvalho">
