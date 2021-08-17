@@ -7,7 +7,7 @@
 📚 Aprender e ajudar outros a aprenderem
 🎓 Bacharel em administração
 💻 Futuro engenheiro de software
-🧩 Fun Facts: música, tecnologia, ler, games
+🧩 Fun Facts: música, tecnologia, leituras, games
 
 <br />
 
